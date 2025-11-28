@@ -41,7 +41,7 @@ Our Hybrid approach outperforms established academic baselines.
 
 ## Demo
 
-The final part of the code uses **ipywidgets** to create a user friendly interface that takes input and produces the output in a very simple and intuitive way. It can be used after executing the file 
+The final part of the code uses **ipywidgets** to create a user friendly interface that takes input and produces the output in a very simple and intuitive way. It can be used after executing the file *Training_Pipeline_with_Demo.ipynb*
 
 ## Reference
 
@@ -55,8 +55,11 @@ The final part of the code uses **ipywidgets** to create a user friendly interfa
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Mental-Health-Profiler.git](https://github.com/AnkKumarGupta/Mental-Health-Profiler.git)
+git clone https://github.com/AnkKumarGupta/Mental-Health-Profiler.git
 cd Mental-Health-Profiler
 
+```
 
+### 2. Run the code
+It will have a code file named as *Training_Pipeline_with_Demo.ipynb*, just run it and enjoy the results.
 
