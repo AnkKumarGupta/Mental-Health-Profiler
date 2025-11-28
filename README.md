@@ -55,7 +55,7 @@ The final part of the code uses **ipywidgets** to create a user friendly interfa
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Mental-Health-Profiler.git](https://github.com/YOUR_USERNAME/Mental-Health-Profiler.git)
+git clone [https://github.com/YOUR_USERNAME/Mental-Health-Profiler.git](https://github.com/AnkKumarGupta/Mental-Health-Profiler.git)
 cd Mental-Health-Profiler
 
 

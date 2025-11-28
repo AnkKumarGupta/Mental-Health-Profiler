@@ -1,4 +1,4 @@
-# Ignore system files
+# Ignore system files and Python cache files
 __pycache__/
 .DS_Store
 .ipynb_checkpoints/
