@@ -16,12 +16,12 @@ This project utilizes two distinct datasets to train the specialist models for e
 
 ### **Dataset 1: Cognitive Distortion Detection Detection (Stage 1)**
 * **Source:** [Kaggle -  Annotated_data](https://www.kaggle.com/datasets/sagarikashreevastava/cognitive-distortion-detetction-dataset) (Shreevastava & Foltz, 2021)
-* **Description:** A csv file consisting four columns *Patient Questions*, *Distorted Part*, *Primary Distortion*, *Secondary Distortion*.
+* **Description:** A csv file consisting five columns *Id_Number*, *Patient Questions*, *Distorted Part*, *Primary Distortion*, *Secondary Distortion*.
 * **Size:** ~1,597 samples.
 * **Labels:** 10 specific Cognitive Distortion types (e.g., *Catastrophizing*, *Labeling*, *Mental Filtering*) plus "No Distortion".
 
 ### **Dataset 2: Depression Severity (Stage 2)**
-* **Source:** [GitHub - DepSeverity](https://github.com/usmaann/Depression_Severity_Dataset) (Naseem et al., 2022)
+* **Source:** [GitHub - Reddit_depression_dataset](https://github.com/usmaann/Depression_Severity_Dataset) (Naseem et al., 2022)
 * **Description:** A csv file consisting of Social media posts (Reddit) curated to analyze depression levels.
 * **Size:** *3,553* samples.
 * **Labels:** 4-level severity scale: *Minimum (2,587), Mild (290), Moderate (394), Severe (282)*.
