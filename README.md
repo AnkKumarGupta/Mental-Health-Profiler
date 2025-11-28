@@ -47,8 +47,8 @@ The final part of the code uses **ipywidgets** to create a user friendly interfa
 
 1. Ji, S., Zhang, T., Ansari, L., Fu, J., Tiwari, P., & Cambria, E. (2022). "MentalBERT: Publicly Available Pre-trained Language Models for Mental Healthcare." Proceedings of LREC 2022, 7184–7190.
 2. Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). "SMOTE: Synthetic Minority Over-sampling Technique." Journal of Artificial Intelligence Research, 16, 321–357.
-3. https://www.kaggle.com/datasets/sagarikashreevastava/cognitive-distortion-detetction-dataset?resource=download
-4. Naseem et al. "Early Identification of Depression Severity Levels on Reddit Using Ordinal Classification" Proceedings of the ACM Web Conference 2022, 2563--2572 (https://github.com/usmaann/Depression_Severity_Dataset)
+3. https://www.kaggle.com/datasets/sagarikashreevastava/cognitive-distortion-detetction-dataset?resource=download  (**Dataset for Stage 1 - Annotated_data.csv**)
+4. Naseem et al. "Early Identification of Depression Severity Levels on Reddit Using Ordinal Classification" Proceedings of the ACM Web Conference 2022, 2563--2572 (https://github.com/usmaann/Depression_Severity_Dataset)  (**Dataset for Stage 2 - Reddit_depression_dataset.csv**)
 
 
 ## Installation & Usage
