@@ -1,0 +1,4 @@
+# Ignore system files
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
